@@ -79,8 +79,8 @@ Carpeta donde Cypress guarda capturas en caso de errores.
 ## **Clonar el repositorio**
 
 ```bash
-git clone https://github.com/hmalave17/KadreeTec-QA-Automation.git
-cd KadreeTec-QA-Automation/Cypress
+git clone https://github.com/hmalave17/KadreeTech-QA-Automation.git
+cd KadreeTech-QA-Automation/Cypress
 ```
 
 ---
@@ -148,7 +148,7 @@ Este módulo demuestra el uso de **Cypress como alternativa de E2E para Frontend
 - BDD integrado  
 - Soporte nativo para testing visual, UI y XHR  
 
-Sin embargo, también sirve como contraste frente a **Playwright**, evaluando cuál se ajusta mejor a los objetivos de KadreeTec.
+Sin embargo, también sirve como contraste frente a **Playwright**, evaluando cuál se ajusta mejor a los objetivos de KadreeTech.
 
 ---
 
