@@ -127,6 +127,6 @@ Framework de mayor adopción en la industria, fácil de usar:
 Ejecuta:
 
 ```bash
-git clone https://github.com/hmalave17/KadreeTec-QA-Automation.git
-cd KadreeTec-QA-Automation
+git clone https://github.com/hmalave17/KadreeTech-QA-Automation.git
+cd KadreeTech-QA-Automation
 
