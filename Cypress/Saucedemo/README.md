@@ -1,4 +1,4 @@
-# Frontend Automation (Cypress + Cucumber)**
+# **Frontend Automation (Cypress + Cucumber)**
 
 Este módulo forma parte del repositorio **KadreeTec-QA-Automation** y contiene la automatización de pruebas **end-to-end del Frontend**, utilizando **Cypress** con integración **Cucumber (BDD)** para lograr escenarios legibles, robustos y fáciles de mantener.
 
