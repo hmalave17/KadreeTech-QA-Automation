@@ -1,6 +1,6 @@
-# **KadreeTec – API Automation (Karate Framework)**
+# **API Automation (Karate Framework)**
 
-Este módulo forma parte del repositorio **KadreeTec-QA-Automation**, y contiene la automatización de pruebas API utilizando **Karate DSL**.
+Este módulo forma parte del repositorio **KadreeTech-QA-Automation**, y contiene la automatización de pruebas API utilizando **Karate DSL**.
 
 Su propósito es servir como framework de automatización para la **capa intermedia (BFF Test Layer)**, validando los servicios REST expuestos hacia frontend, permitiendo:
 
@@ -12,7 +12,7 @@ Su propósito es servir como framework de automatización para la **capa interme
 
 ---
 
-## 🚀 **Tecnologías utilizadas**
+## **Tecnologías utilizadas**
 
 - Java 11+
 - Karate DSL
@@ -73,8 +73,8 @@ Karate/
 ## **Clonar el repositorio**
 
 ```bash
-git clone https://github.com/hmalave17/KadreeTec-QA-Automation.git
-cd KadreeTec-QA-Automation/Karate
+git clone https://github.com/hmalave17/KadreeTech-QA-Automation.git
+cd KadreeTech-QA-Automation/Karate
 ```
 
 ---
